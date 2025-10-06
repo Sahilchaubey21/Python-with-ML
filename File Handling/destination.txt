@@ -1,0 +1,5 @@
+This is my new line and i opened it in the write(w) mode so that i can over write on the existing content. /n Sahil Chaubey
+ So basically i am applying the append mode from here so that i can know that how append mode work.This is first line
+This is second line
+This is third line
+This is fourth line
